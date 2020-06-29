@@ -1,5 +1,5 @@
 # Custom-image-Malaria-prediction
-Created a model usinf Convolutional Neural Networks(CNN) which predicts whether the cell is infected with Malaria or not by looking at the image
+Created a model using Convolutional Neural Networks(CNN) which predicts whether the cell is infected with Malaria or not by looking at the image
 
 Dataset:- cell_images
 
